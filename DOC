@@ -1,0 +1,16 @@
+All the information I will take will be taken from the official documentation https://portswigger.net/burp/documentation
+
+
+🧭 Navigation & Core Components
+
+The documentation is organized into several main modules depending on your target tool or deployment method:
+Desktop Editions (Professional & Community):
+  Burp Proxy: Intercept, view, and modify HTTP/S and WebSocket traffic on the fly.
+  Burp Repeater: Craft, manipulate, and replay individual HTTP requests to test application logic.
+  Burp Intruder: Automate customized, high-volume attacks for fuzzing, brute-forcing, and enumeration.
+  Burp Target: Analyze the attack surface, manage site maps, and define target scopes.
+  Other Built-in Tools: Includes Sequencer, Decoder, Comparer, DOM Invader, Organizer, and Logger.
+  Burp Scanner: Automated crawling and auditing engine for detecting web vulnerabilities.
+  Burp Suite DAST: Enterprise-enabled dynamic web vulnerability scanner.
+  Burp Collaborator: External service integration network for detecting out-of-band/blind vulnerabilities.
+  AI Features & Burp AT: Guides on leveraging AI agents and automated features to assist human-led penetration testing.
